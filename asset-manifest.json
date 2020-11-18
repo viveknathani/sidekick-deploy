@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sidekick-deploy/static/css/main.5bc36290.chunk.css",
-    "main.js": "/sidekick-deploy/static/js/main.a4a49057.chunk.js",
-    "main.js.map": "/sidekick-deploy/static/js/main.a4a49057.chunk.js.map",
+    "main.js": "/sidekick-deploy/static/js/main.c2f8487a.chunk.js",
+    "main.js.map": "/sidekick-deploy/static/js/main.c2f8487a.chunk.js.map",
     "runtime-main.js": "/sidekick-deploy/static/js/runtime-main.2a30fb4d.js",
     "runtime-main.js.map": "/sidekick-deploy/static/js/runtime-main.2a30fb4d.js.map",
     "static/js/2.5e7d4297.chunk.js": "/sidekick-deploy/static/js/2.5e7d4297.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2a30fb4d.js",
     "static/js/2.5e7d4297.chunk.js",
     "static/css/main.5bc36290.chunk.css",
-    "static/js/main.a4a49057.chunk.js"
+    "static/js/main.c2f8487a.chunk.js"
   ]
 }
